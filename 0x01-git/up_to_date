@@ -1,5 +1,1 @@
-To get up to date with the latest changes in the main branch, run the following Git command:
-
-git fetch origin
-git merge origin/main
-
+git pull
